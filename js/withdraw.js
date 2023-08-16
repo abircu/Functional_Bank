@@ -7,3 +7,4 @@ document.getElementById("withdraw-btn").addEventListener("click", function () {
   setTextElementByValue("Withdraw-total", addWithdrawAmount);
   setTextElementByValue("Balance-total", totalBalance);
 });
+// withdraw functionality is complete
